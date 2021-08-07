@@ -12,13 +12,13 @@
 
 🌱 I'm currently learning ...
 
-👾 In my free time I like to read, learn new things, watch series, anime and play hearthstone.
+👾 In my free time I like to read, learn new things, watch series, anime and play Hearthstone.
 
 📚 Besides programming, I love studying biology, geography, psychology, feminism, art and education.
 
 📫 How to reach me...
     
-   - by my email isabelireik2@gmail.com
+   - my email: isabelireik2@gmail.com
    
    - my LinkedIn profile: https://www.linkedin.com/in/isabeli-reik-872981162/
    
