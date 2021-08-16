@@ -18,13 +18,14 @@
 
 ☕ Some tools I know:
 
-    - C
-    - Html/CSS/JavaScript
-    - Java
-    - C++
-    - Python
-    - PHP
-    - SQL
+   - C
+   - Html/CSS/JavaScript
+   - Java
+   - C++
+   - Python
+   - PHP
+   - SQL
+   - Groovy
 
 📫 How to reach me...
     
