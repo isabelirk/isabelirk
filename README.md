@@ -16,6 +16,16 @@
 
 📚 Besides programming, I love studying biology, geography, psychology, feminism, art and education.
 
+☕ Some tools I know:
+
+    - C
+    - Html/CSS/JavaScript
+    - Java
+    - C++
+    - Python
+    - PHP
+    - SQL
+
 📫 How to reach me...
     
    - my email: isabelireik2@gmail.com
