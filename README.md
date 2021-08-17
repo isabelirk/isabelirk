@@ -10,7 +10,7 @@
 
 💻 I'm currently working on a project at the university called the Program for the Expansion and Consolidation of Technologies and Innovation in the Educational Context (PRACTICE).
 
-🌱 I'm currently learning: JavaScript.
+🌱 I'm currently learning: JavaScript and English.
 
 👾 In my free time I like to read, learn new things, watch series, anime and play Hearthstone.
 
