@@ -6,7 +6,7 @@
 
 📌 I live in the state of Santa Catarina - Brazil.
 
-👩‍🎓 I'm currently a graduate student in Geography (Licentiate) at UFFS.
+👩‍🎓 I'm currently a undergraduate student in Geography (Licentiate) at UFFS.
 
 💻 I'm currently working on a project at the university called the Program for the Expansion and Consolidation of Technologies and Innovation in the Educational Context (PRACTICE).
 
