@@ -35,8 +35,4 @@
    
 
 ## Estatísticas do GitHub
-
 [![Isabeli's github stats](https://github-readme-stats.vercel.app/api?username=isabelirk&show_icons=true&theme=dark)](https://github.com/isabelirk/github-readme-stats) ![Isabeli's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=isabelirk&layout=compact&hide_border=true&theme=dark)
-
-<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zendy199x&layout=compact&hide=html" alt="isabelirk" /></div>
-
