@@ -33,9 +33,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isabeli-reik-872981162//)](https://www.linkedin.com/in/isabeli-reik-872981162/)
    
 ## Estatísticas do GitHub
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isabelirk&" alt="isabelirk" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isabelirk&show_icons=true&locale=en&layout=compact" alt="isabelirk" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isabelirk&show_icons=true&locale=en" alt="isabelirk" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isabelirk&" alt="isabelirk" /></p>
