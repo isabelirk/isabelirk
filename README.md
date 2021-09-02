@@ -34,7 +34,6 @@
    
 ## Estatísticas do GitHub
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isabelirk&" alt="isabelirk" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isabelirk&show_icons=true&locale=en&layout=compact" alt="isabelirk" /></p>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=isabelirk&show_icons=true&locale=en&layout=compact" alt="isabelirk" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isabelirk&show_icons=true&locale=en" alt="isabelirk" /></p>
 
