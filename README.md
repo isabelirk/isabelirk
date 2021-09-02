@@ -4,7 +4,7 @@
 
 😄 Pronouns: she/her.
 
-📌 I live in the state of Santa Catarina - Brazil.
+📌 I live in the Brazil.
 
 👩‍🎓 I'm currently a undergraduate student in Geography (Licentiate) at UFFS.
 
