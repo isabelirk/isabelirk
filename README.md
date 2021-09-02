@@ -28,14 +28,10 @@
    - Groovy
 
 📫 How to reach me...
+
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isabelireik2@gmail.com)](mailto:isabelireik2@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isabeli-reik-872981162//)](https://www.linkedin.com/in/isabeli-reik-872981162/)
-    
-   - my email: isabelireik2@gmail.com
    
-   - my LinkedIn profile: https://www.linkedin.com/in/isabeli-reik-872981162/
-   
-
 ## Estatísticas do GitHub
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isabelirk&show_icons=true&locale=en&layout=compact" alt="isabelirk" /></p>
