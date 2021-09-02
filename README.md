@@ -28,6 +28,8 @@
    - Groovy
 
 📫 How to reach me...
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isabelireik2@gmail.com)](mailto:isabelireik2@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isabeli-reik-872981162//)](https://www.linkedin.com/in/isabeli-reik-872981162/)
     
    - my email: isabelireik2@gmail.com
    
