@@ -1,8 +1,6 @@
 # Hello 👋
 
-👩 My name's Isabeli and I'm 26 years old (she/her).
-
-📌 I live in the Brazil.
+👩 My name's Isabeli and I'm 26 years old. (she/her)
 
 👩‍🎓 I'm currently a undergraduate student in Geography (Licentiate) at UFFS.
 
