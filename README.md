@@ -1,8 +1,6 @@
 # Hello 👋
 
-👩 My name's Isabeli and I'm 26 years old.
-
-😄 Pronouns: she/her.
+👩 My name's Isabeli and I'm 26 years old (she/her).
 
 📌 I live in the Brazil.
 
