@@ -2,9 +2,9 @@
 
 👩 My name's Isabeli and I'm 26 years old. (she/her)
 
-👩‍🎓 I'm currently a undergraduate student in Geography (Licentiate) at UFFS.
+👩‍🎓 I'm a undergraduate student in Geography (Licentiate) at UFFS.
 
-💻 I'm currently work at Betha Sistemas.
+💻 I'm working at Betha Sistemas.
 
 🌱 I'm currently learning: JavaScript and English.
 
