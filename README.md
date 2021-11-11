@@ -4,7 +4,7 @@
 
 👩‍🎓 I'm a undergraduate student in Geography (Licentiate) at UFFS.
 
-💻 I'm working at
+💻 I'm working at PRACTICE.
 
 🌱 I'm currently learning: JavaScript and English.
 
