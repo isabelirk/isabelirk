@@ -2,15 +2,13 @@
 
 👩 My name's Isabeli and I'm 26 years old. (she/her)
 
-👩‍🎓 I'm a undergraduate student in Geography (Licentiate) at UFFS.
+👩‍🎓 I'm a undergraduate student in Computer Science at UFFS.
 
 💻 I'm working at PRACTICE.
 
 🌱 I'm currently learning: JavaScript and English.
 
 👾 In my free time I like to read, learn new things, watch series, anime and play Hearthstone.
-
-📚 Besides programming, I love studying biology, geography, psychology, feminism, art and education.
 
 ☕ Some tools I know:
 
