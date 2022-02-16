@@ -4,7 +4,7 @@
 
 👩‍🎓 I'm a undergraduate student in Computer Science at UFFS.
 
-💻 I'm working at PRACTICE.
+💻 I'm working at PRACTICE and Amplimed.
 
 🌱 I'm currently learning: JavaScript and English.
 
