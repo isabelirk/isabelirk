@@ -6,7 +6,7 @@
 
 💻 I'm working at PRACTICE and Amplimed.
 
-🌱 I'm currently learning: JavaScript and English.
+🌱 I'm currently learning: ux writing.
 
 👾 In my free time I like to read, learn new things, watch series, anime and play Hearthstone.
 
