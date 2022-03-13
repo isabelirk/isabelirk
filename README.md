@@ -20,6 +20,7 @@
    - PHP
    - SQL
    - Groovy
+   - TIBCO
 
 📫 How to reach me...
 
