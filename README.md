@@ -4,7 +4,7 @@
 
 👩‍🎓 I'm a undergraduate student in Computer Science at UFFS.
 
-💻 I'm working at Amplimed.
+💻 I'm working at Amplimed as a support.
 
 🌱 I'm currently learning: ux writing and JavaScript.
 
