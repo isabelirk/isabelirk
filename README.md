@@ -1,12 +1,12 @@
 # Hello 👋
 
-👩 My name's Isabeli and I'm 26 years old. (she/her)
+👩 My name's Isabeli and I'm 27 years old. (she/her)
 
 👩‍🎓 I'm a undergraduate student in Computer Science at UFFS.
 
-💻 I'm working at PRACTICE.
+💻 I'm working at Amplimed.
 
-🌱 I'm currently learning: ux writing.
+🌱 I'm currently learning: ux writing and JavaScript.
 
 👾 In my free time I like to read, learn new things, watch series, anime and play Hearthstone.
 
