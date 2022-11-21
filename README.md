@@ -2,7 +2,7 @@
 
 👩 My name's Isabeli and I'm 27 years old. (she/her)
 
-👩‍🎓 I'm a undergraduate student in Computer Science at UFFS.
+👩‍🎓 I'm a undergraduate student in Computer Science at UFFS - Universidade Federal da Fronteira Sul.
 
 💻 I'm working at Amplimed as a support.
 
