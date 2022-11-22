@@ -1,14 +1,6 @@
 # Hello 👋
 
-👩 My name's Isabeli and I'm 27 years old. (she/her)
-
-👩‍🎓 I'm a undergraduate student in Computer Science at UFFS - Universidade Federal da Fronteira Sul.
-
-💻 I'm working at Amplimed as a support.
-
-🌱 I'm currently learning: ux writing and JavaScript.
-
-👾 In my free time I like to read, learn new things, watch series, anime and play Hearthstone.
+👩‍ My name's Isabeli (she/her) and I'm a undergraduate student in Computer Science at UFFS - Universidade Federal da Fronteira Sul. Currently, I work as a support at Amplimed. In my free time I like to read, learn new things, watch series, anime and play Hearthstone.
 
 ☕ Some tools I know:
 
@@ -21,6 +13,7 @@
    - SQL
    - Groovy
    - TIBCO
+   - VS Code
 
 📫 How to reach me...
 
@@ -31,4 +24,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isabelirk&" alt="isabelirk" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=isabelirk&show_icons=true&locale=en&layout=compact" alt="isabelirk" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isabelirk&show_icons=true&locale=en" alt="isabelirk" /></p>
-
