@@ -1,6 +1,6 @@
 # Hello 👋
 
-:woman_student: My name's Isabeli (she/her) and I'm a undergraduate student in Computer Science at UFFS - Universidade Federal da Fronteira Sul. Currently, I work as a support at Amplimed. In my free time I like to read, learn new things, watch series, anime and play Hearthstone. I love technology and agile methods. I have experience in SCRUM and Kanban, which I experienced both in my college and in my work.
+:woman_student: My name's Isabeli (she/her) and I'm a undergraduate student in Computer Science at UFFS - Universidade Federal da Fronteira Sul. In my free time I like to read, learn new things, watch series, anime and play Hearthstone. I love technology and agile methods. I have experience in SCRUM and Kanban, which I experienced both in my college and in my work.
 
 ☕ Some tools I know:
 
