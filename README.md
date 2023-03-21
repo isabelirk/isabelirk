@@ -31,3 +31,12 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isabelirk&" alt="isabelirk" /></p>
 <p><img align="center" src="https://isabelirk-qo4vmte2l-isabelirk.vercel.app" alt="isabelirk" /></p>
 <p>&nbsp;<img align="center" src="https://isabelirk-qo4vmte2l-isabelirk.vercel.app" alt="isabelirk" /></p>
+
+
+------------------------------
+
+<div align="center">
+  <a href="https://github.com/isabelirk">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=isabelirk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true."/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelirk&layout=compact&langs_count=7&theme=dracula&include_all_commits=true&count_private=true."/>
+</div>
