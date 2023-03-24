@@ -1,26 +1,25 @@
-# Hello 👋
+# <Hello Word!/> :wave:
 
-:woman_student: My name's Isabeli (she/her) and I'm a undergraduate student in Computer Science at UFFS - Universidade Federal da Fronteira Sul. In my free time I like to read, learn new things, watch series, anime and play Hearthstone. I love technology and agile methods. I have experience in SCRUM and Kanban, which I experienced both in my college and in my work.
+:woman_student: Nice to meet you, I'm Isabeli (she/her)! I'm currently a undergraduate student in Computer Science at the Universidade Federal da Fronteira Sul - UFFS, and I'm a student of the Full Stack Developer course in JavaScript at OneBitCode.
 
-☕ Some tools I know:
+:two_hearts: In my free time I like to read, learn new things, watch series, anime and play Hearthstone. I am passionate about technology and agile methods. I have experience in SCRUM and Kanban, which I experienced both in my university and in my work.
 
-   - C
-   - Html/CSS/JavaScript
-   - Java
-   - C++
-   - Python
-   - PHP
-   - SQL
+## :coffee: Some tools I know:
+
+[![Skills]https://devicons.dev.br/icons?icon=C,HTML,CSS,JavaScript,Java,CPP,PHP,Python,MySQL,Discord,Git,Github,Linux,VSCode&theme=light](https://devicons.dev.br/)
    - Groovy
    - TIBCO
-   - VS Code
 
-📫 How to reach me...
+## :open_book: What am I studying?
+
+[![Skills]https://devicons.dev.br/icons?icon=Haskell&theme=light](https://devicons.dev.br/)
+
+## :mailbox: How to reach me...
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isabelireik2@gmail.com)](mailto:isabelireik2@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isabeli-reik-872981162//)](https://www.linkedin.com/in/isabelireik/)
    
-## Estatísticas do GitHub
+## :eyes: Estatísticas do GitHub
 <div align="center">
    <img src="https://profile-counter.glitch.me/isabelirk/count.svg" />
 </div>
