@@ -12,14 +12,14 @@
 
 ## :open_book: What am I studying?
 
-[![Skills]https://devicons.dev.br/icons?icon=Haskell&theme=light](https://devicons.dev.br/)
+https://devicons.dev.br/icons?icon=Haskell&theme=light
 
 ## :mailbox: How to reach me...
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isabelireik2@gmail.com)](mailto:isabelireik2@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isabeli-reik-872981162//)](https://www.linkedin.com/in/isabelireik/)
    
-## :eyes: Estatísticas do GitHub
+## :eyes: GitHub Stats
 <div align="center">
    <img src="https://profile-counter.glitch.me/isabelirk/count.svg" />
 </div>
