@@ -12,7 +12,7 @@
 
 ## :open_book: What am I studying?
 
-https://devicons.dev.br/icons?icon=Haskell&theme=light
+[![Skills](https://devicons.dev.br/icons?icon=Haskell&theme=light)](https://devicons.dev.br/)
 
 ## :mailbox: How to reach me...
 
