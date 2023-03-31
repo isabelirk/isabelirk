@@ -8,11 +8,11 @@
 
 [![Skills](https://devicons.dev.br/icons?icon=C,HTML,CSS,JavaScript,Java,CPP,PHP,Python,MySQL,Discord,Git,Github,Linux,VSCode&theme=light)](https://devicons.dev.br/)
    - Groovy
-   - TIBCO
+   - Jaspersoft Studio
 
 ## :open_book: What am I studying?
 
-[![Skills](https://devicons.dev.br/icons?icon=Haskell&theme=light)](https://devicons.dev.br/)
+[![Skills](https://devicons.dev.br/icons?icon=React,Haskell&theme=light)](https://devicons.dev.br/)
 
 ## :mailbox: How to reach me...
 
