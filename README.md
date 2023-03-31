@@ -6,7 +6,7 @@
 
 ## :coffee: Some tools I know:
 
-[![Skills](https://devicons.dev.br/icons?icon=C,HTML,CSS,JavaScript,Java,CPP,PHP,Python,MySQL,Discord,Git,Github,Linux,VSCode&theme=light)](https://devicons.dev.br/)
+[![Skills](https://devicons.dev.br/icons?icon=C,CPP,HTML,CSS,JavaScript,Python,Java,PHP,MySQL,Git,Github,VSCode,Linux,Discord&theme=light)](https://devicons.dev.br/)
    - Groovy
    - Jaspersoft Studio
 
