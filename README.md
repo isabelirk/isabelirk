@@ -10,10 +10,6 @@
    - Groovy
    - Jaspersoft Studio
 
-## :open_book: What am I studying?
-
-[![Skills](https://devicons.dev.br/icons?icon=React,Haskell&theme=light)](https://devicons.dev.br/)
-
 ## :mailbox: How to reach me...
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isabelireik2@gmail.com)](mailto:isabelireik2@gmail.com)
