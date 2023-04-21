@@ -6,12 +6,7 @@
 
 ## :coffee: Some tools I know:
 
-[![Skills](https://devicons.dev.br/icons?icon=C,CPP,HTML,CSS,JavaScript,Python,Java,PHP,MySQL,Git,Github,VSCode,Linux,Discord&theme=light)](https://devicons.dev.br/)
-
- 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" />
-          
-          
+[![Skills](https://devicons.dev.br/icons?icon=C,CPP,HTML,CSS,JavaScript,Python,Java,PHP,MySQL,Git,Github,VSCode,Linux,Discord&theme=light)](https://devicons.dev.br/)      
    - Groovy
    - Jaspersoft Studio
 
