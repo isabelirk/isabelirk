@@ -4,14 +4,15 @@
 
 :two_hearts: Graduanda do curso de Ciência da Computação na Universidade Federal da Fronteira Sul - UFFS Campus Chapecó - SC, faço também o curso de Desenvolvedor Full Stack em JavaScript da OneBitCode, e é bem possível que mais algum outro também.
 
-## :coffee: Some tools I know:
+## :coffee: Algumas ferramentas que conheço:
 
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,py,java,php,mysql,git,github,vscode,)](https://skillicons.dev)
 [![Skills](https://devicons.dev.br/icons?icon=C,CPP,HTML,CSS,JavaScript,Python,Java,PHP,MySQL,Git,Github,VSCode,Linux,Discord&theme=light)](https://devicons.dev.br/)      
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
    - Groovy
    - Jaspersoft Studio
 
-## :mailbox: How to reach me...
+## :mailbox: Como chegar até mim...
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isabelireik2@gmail.com)](mailto:isabelireik2@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isabeli-reik-872981162//)](https://www.linkedin.com/in/isabelireik/)
