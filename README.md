@@ -7,10 +7,10 @@
 ## :coffee: Algumas ferramentas que conheço:
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,py,java,php,mysql,git,github,vscode,)](https://skillicons.dev)
-[![Skills](https://devicons.dev.br/icons?icon=C,CPP,HTML,CSS,JavaScript,Python,Java,PHP,MySQL,Git,Github,VSCode,Linux,Discord&theme=light)](https://devicons.dev.br/)      
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
-   - Groovy
-   - Jaspersoft Studio
+
+## :coffee: Ferramentas que estou estudando:
+
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,mongodb,figma,ts)](https://skillicons.dev)
 
 ## :mailbox: Como chegar até mim...
 
