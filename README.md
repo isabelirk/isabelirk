@@ -30,9 +30,9 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelirk&layout=compact&langs_count=7&theme=dracula&include_all_commits=true&count_private=true."/>
 </div>
 
-## <summary>Listening on the Spotify</summary>
- 
-  <div align="center">
-                     <a href="https://github.com/isyuricunha">
-    <img alt="Spotify" src="https://spotify-recently-played-readme.vercel.app/api?user=p3h267aa2gos5wd11dtberex5">
-  </div>
+## Listening on the Spotify
+
+<div align="center">
+  <a href="https://open.spotify.com/user/p3h267aa2gos5wd11dtberex5">
+  <img alt="Spotify" src="https://spotify-recently-played-readme.vercel.app/api?user=p3h267aa2gos5wd11dtberex5&width=890&count=5">
+</div>
