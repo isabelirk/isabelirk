@@ -8,11 +8,11 @@
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,py,java,php,mysql,git,github,vscode,)](https://skillicons.dev)
 
-## :coffee: Ferramentas que estou estudando:
+## :star_struck: Ferramentas que estou estudando:
 
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,mongodb,figma,ts)](https://skillicons.dev)
 
-## :mailbox: Como chegar até mim...
+## :mailbox: Como me encontrar...
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isabelireik2@gmail.com)](mailto:isabelireik2@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isabeli-reik-872981162//)](https://www.linkedin.com/in/isabelireik/)
@@ -29,3 +29,10 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=isabelirk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true."/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelirk&layout=compact&langs_count=7&theme=dracula&include_all_commits=true&count_private=true."/>
 </div>
+
+## <summary>Listening on the Spotify</summary>
+ 
+  <div align="center">
+                     <a href="https://github.com/isyuricunha">
+    <img alt="Spotify" src="https://spotify-recently-played-readme.vercel.app/api?user=p3h267aa2gos5wd11dtberex5">
+  </div>
