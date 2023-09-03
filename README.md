@@ -1,8 +1,8 @@
 # <Hello Word!/> :wave:
 
-:woman_student: Nice to meet you, I'm Isabeli (she/her)! I'm currently a undergraduate student in Computer Science at the Universidade Federal da Fronteira Sul - UFFS, and I'm a student of the Full Stack Developer course in JavaScript at OneBitCode.
+:woman_student: Sou uma gaúcha que vive atualmente em terras chapecoenses. Apaixonada por tecnologia, obcecada por desenvolvimento ágil, leitora voraz de vários assuntos, adoro um cafezinho e viciada em estudar, prazer!
 
-:two_hearts: In my free time I like to read, learn new things, watch series, anime and play Hearthstone. I am passionate about technology and agile methods. I have experience in SCRUM and Kanban, which I experienced both in my university and in my work.
+:two_hearts: Graduanda do curso de Ciência da Computação na Universidade Federal da Fronteira Sul - UFFS Campus Chapecó - SC, faço também o curso de Desenvolvedor Full Stack em JavaScript da OneBitCode, e é bem possível que mais algum outro também.
 
 ## :coffee: Some tools I know:
 
