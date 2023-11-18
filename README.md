@@ -10,11 +10,6 @@
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,py,java,php,mysql,git,github,vscode,)](https://skillicons.dev)
 
 
-## :star_struck: Ferramentas que estou estudando:
-
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,mongodb,figma,ts)](https://skillicons.dev)
-
-
 ## :mailbox: Como me encontrar...
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isabelireik2@gmail.com)](mailto:isabelireik2@gmail.com)
