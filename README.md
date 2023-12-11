@@ -2,7 +2,7 @@
 
 :woman_student: Sou uma gaúcha que vive atualmente em terras chapecoenses. Apaixonada por tecnologia, obcecada por desenvolvimento ágil, leitora voraz de vários assuntos, adoro um cafezinho e viciada em estudar, prazer!
 
-:two_hearts: Graduanda do curso de Ciência da Computação na Universidade Federal da Fronteira Sul - UFFS Campus Chapecó - SC, faço também o curso de Desenvolvedor Full Stack em JavaScript da OneBitCode, e é bem possível que mais algum outro também.
+:two_hearts: Graduanda do curso de Ciência da Computação na Universidade Federal da Fronteira Sul - UFFS Campus Chapecó - SC, faço também o curso de Desenvolvedor Full Stack em JavaScript da OneBitCode, e é bem possível que mais algum outro também. 
 
 
 ## :coffee: Algumas ferramentas que conheço:
