@@ -24,8 +24,8 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isabelireik2@gmail.com)](mailto:isabelireik2@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isabeli-reik-872981162//)](https://www.linkedin.com/in/isabelireik/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@isabelireik)]
-[![Academia.edu](https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black&link=https://wwwuffs.academia.edu/IsabeliReik)]
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@isabelireik)
+![Academia.edu](https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black&link=https://wwwuffs.academia.edu/IsabeliReik)
 [![Spotify Badge](https://img.shields.io/badge/-Spotify-1ED760?style=flat-square&logo=Spotify&logoColor=white&link=https://open.spotify.com/user/p3h267aa2gos5wd11dtberex5)](https://open.spotify.com/user/p3h267aa2gos5wd11dtberex5)
 
    
