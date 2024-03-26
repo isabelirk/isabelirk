@@ -8,7 +8,7 @@
 ## :coffee: Algumas ferramentas que conheço:
 
 
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+[!(https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]
 (https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 (https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 (https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
