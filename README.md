@@ -1,5 +1,7 @@
 # <Hello Word!/> :wave:
 
+<img src="./.github/capa.png" width="1920px">
+
 :woman_student: Sou uma gaúcha de pais agricultores que vive atualmente em terras chapecoenses, fascinada pela tecnologia, leitora voraz de vários assuntos e adoro um cafezinho, prazer!
 
 :two_hearts: Graduanda do curso de Ciência da Computação na Universidade Federal da Fronteira Sul - UFFS Campus Chapecó - SC. Tenho mais de 4 anos de experiência profissional em suporte para sistemas web, desktop e mobile. Acredito em pessoas e acredito no poder da tecnologia em transformar a nossa realidade. Foi por meio dos dados que encontrei esse caminho da transformação. Na minha rotina atual como suporte, eu reúno e utilizo de todas as informações que encontro para sempre trazer a melhor experiência ao usuário e solucionar os seus problemas. É o impacto positivo que busco trazer diariamente em cada atendimento realizado!
