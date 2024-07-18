@@ -1,6 +1,6 @@
 # <Hello Word!/> :wave:
 
-<img src="capa.png" width="1920px">
+[![capa](https://github.com/isabelirk/isabelirk/blob/master/capa.png)](https://github.com/isabelirk?tab=repositories)
 
 :woman_student: Sou uma gaúcha de pais agricultores que vive atualmente em terras chapecoenses, fascinada pela tecnologia, leitora voraz de vários assuntos e adoro um cafezinho, prazer!
 
