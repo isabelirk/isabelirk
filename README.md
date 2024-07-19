@@ -54,7 +54,7 @@
 </div>
 
 
-## Ouvindo no Spotify...
+## :headphones: Ouvindo no Spotify...
 
 <div align="center">
   <a href="https://open.spotify.com/user/p3h267aa2gos5wd11dtberex5">
